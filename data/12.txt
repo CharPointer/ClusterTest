@@ -1,0 +1,43 @@
+DUOMENŲ TVARKYMO SUTARTIS
+
+Ši Duomenų tvarkymo sutartis (toliau – „Sutartis“) sudaryta 2026 m. balandžio 9 d. Vilniuje tarp:
+
+UAB „Sveikatos Miestas“, juridinio asmens kodas 111000222, buveinės adresas L. Asanavičiūtės g. 20, Vilnius (toliau – „Duomenų valdytojas“), ir
+
+UAB „Debesų Sistemos“, juridinio asmens kodas 333444555, buveinės adresas Saltoniškių g. 9, Vilnius (toliau – „Duomenų tvarkytojas“).
+
+1. Sutarties dalykas ir tikslas
+1.1. Ši Sutartis nustato asmens duomenų tvarkymo sąlygas, kai Duomenų tvarkytojas teikia Duomenų valdytojui IT infrastruktūros ir duomenų saugyklų nuomos paslaugas.
+1.2. Sutartis sudaryta siekiant užtikrinti atitiktį Bendrojo duomenų apsaugos reglamento (BDAR) 28 straipsnio reikalavimams.
+
+2. Tvarkymo pobūdis ir trukmė
+2.1. Tvarkymo pobūdis: Duomenų tvarkytojas suteikia prieigą prie serverių, kuriuose saugomi Duomenų valdytojo pacientų ir darbuotojų duomenys.
+2.2. Trukmė: Duomenys tvarkomi tol, kol galioja Pagrindinė paslaugų teikimo sutartis.
+2.3. Duomenų subjektai: Duomenų valdytojo pacientai, darbuotojai, kontrahentai.
+2.4. Asmens duomenų rūšys: Vardas, pavardė, asmens kodas, sveikatos būklės duomenys, kontaktinė informacija, IP adresai.
+
+3. Duomenų tvarkytojo įsipareigojimai
+3.1. Tvarkyti asmens duomenis tik pagal dokumentuotus Duomenų valdytojo nurodymus.
+3.2. Užtikrinti, kad asmens duomenis tvarkyti įgalioti asmenys būtų įsipareigoję laikytis konfidencialumo.
+3.3. Įgyvendinti tinkamas technines ir organizacines priemones (šifravimą, prieigos kontrolę, auditą), kad būtų užtikrintas saugumo lygis, atitinkantis riziką.
+3.4. Nesamdyti kito duomenų tvarkytojo (subtvarkytojo) be išankstinio specifinio arba bendro rašytinio Duomenų valdytojo leidimo.
+
+4. Duomenų saugumo pažeidimai
+4.1. Duomenų tvarkytojas, sužinojęs apie asmens duomenų saugumo pažeidimą, privalo nepagrįstai nedelsdamas, bet ne vėliau kaip per 24 valandas, apie tai pranešti Duomenų valdytojui.
+4.2. Pranešime turi būti pateikta informacija apie pažeidimo pobūdį, galimas pasekmes ir priemones, kurių imtasi žalai sumažinti.
+
+5. Duomenų grąžinimas ir ištrynimas
+5.1. Nutraukus paslaugų teikimą, Duomenų tvarkytojas įsipareigoja pagal Duomenų valdytojo pasirinkimą ištrinti visus asmens duomenis arba juos grąžinti, išskyrus atvejus, kai teisės aktai reikalauja duomenis saugoti ilgiau.
+
+6. Auditas
+6.1. Duomenų tvarkytojas pateikia Duomenų valdytojui visą informaciją, būtiną įrodyti, kad laikomasi šioje Sutartyje nustatytų prievolių, ir sudaro sąlygas audito patikrinimams.
+
+Šalių parašai:
+
+Duomenų valdytojas:
+
+Direktorius Mantas Šviesus
+
+Duomenų tvarkytojas:
+
+Direktorius Saulius Debesis

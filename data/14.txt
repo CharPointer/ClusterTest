@@ -1,0 +1,49 @@
+PASLAUGŲ TEIKIMO SUTARTIES PRIEDAS NR. 1 (DARBO APRAŠYMAS)
+
+Šis Priedas Nr. 1 (toliau – „Priedas“) yra 2026 m. balandžio 9 d. Paslaugų teikimo sutarties (toliau – „Pagrindinė sutartis“) neatsiejama dalis, sudaryta tarp:
+
+UAB „Ateities Technologijos“ (toliau – „Paslaugų teikėjas“) ir
+MB „Sprendimų Grupė“ (toliau – „Klientas“).
+
+1. Paslaugų apimtis ir specifikacija
+1.1. Paslaugų teikėjas įsipareigoja Klientui sukurti ir įdiegti verslo procesų valdymo sistemą (toliau – „Sistema“), kuri apima šiuos modulius:
+
+Klientų santykių valdymo (CRM) modulis su automatizuotu el. pašto integravimu.
+
+Atsargų valdymo ir sandėlio apskaitos modulis.
+
+Analitinių ataskaitų generavimo įrankis (BI dashboard).
+1.2. Sistema turi būti suderinama su Kliento naudojama „Odoo“ platformos versija 16.0.
+
+2. Vykdymo etapai ir terminai
+2.1. Darbai pradedami 2026 m. balandžio 15 d. ir vykdomi šiais etapais:
+
+I etapas: Sistemos architektūros projektavimas ir suderinimas (iki 2026-05-15).
+
+II etapas: Programavimo darbai ir beta versijos testavimas (iki 2026-07-30).
+
+III etapas: Galutinis įdiegimas, darbuotojų mokymai ir perdavimo-priėmimo akto pasirašymas (iki 2026-08-30).
+
+3. Paslaugų kaina ir mokėjimo grafikas
+3.1. Bendra darbų kaina pagal šį Priedą yra 18 500 EUR (aštuoniolika tūkstančių penki šimtai eurų), neįskaitant PVM.
+3.2. Mokėjimo tvarka:
+
+20% avansinis mokėjimas (3 700 EUR) sumokamas per 5 darbo dienas nuo Priedo pasirašymo.
+
+40% mokėjimas (7 400 EUR) sumokamas patvirtinus II etapo darbus.
+
+Likusi 40% suma (7 400 EUR) sumokama per 10 dienų po galutinio perdavimo-priėmimo akto pasirašymo.
+
+4. Kliento bendradarbiavimas
+4.1. Klientas įsipareigoja paskirti atsakingą asmenį (projektų vadovą), kuris teiks techninę informaciją ir patvirtins atliktų darbų etapus.
+4.2. Jei Klientas vėluoja pateikti reikiamą informaciją daugiau nei 5 darbo dienas, Paslaugų teikėjas turi teisę proporcingai pratęsti darbų atlikimo terminą.
+
+5. Kitos sąlygos
+5.1. Visiems atliktiems darbams suteikiama 12 (dvylikos) mėnesių garantija nuo galutinio perdavimo-priėmimo akto pasirašymo dienos.
+5.2. Šis Priedas surašytas dviem egzemplioriais, po vieną kiekvienai Šaliai.
+
+Šalių parašai:
+
+Paslaugų teikėjas:
+
+Klientas:

@@ -1,0 +1,36 @@
+PRANEŠIMAS APIE DUOMENŲ SAUGUMO PAŽEIDIMĄ
+
+2026 m. lapkričio 14 d.
+Vilnius
+
+KAM: Valstybinei duomenų apsaugos inspekcijai (VDAI)
+KOPIJA: UAB „Sveikatos Miestas“ (Duomenų valdytojui)
+NUO: UAB „Debesų Sistemos“ (Duomenų tvarkytojo)
+
+Šis pranešimas teikiamas vadovaujantis 2026 m. balandžio 9 d. tarp Šalių sudarytos Duomenų tvarkymo sutarties 4.1 punktu bei Bendrojo duomenų apsaugos reglamento (BDAR) 33 straipsniu.
+
+1. Informacija apie incidentą
+2026 m. lapkričio 13 d., 22:15 val., UAB „Debesų Sistemos“ stebėjimo sistemos užfiksavo neteisėtą prisijungimą prie vieno iš serverių (ID: SRV-LIT-09), kuriame saugoma UAB „Sveikatos Miestas“ pacientų duomenų bazė. Pirminio tyrimo duomenimis, įsilaužimas įvykdytas pasinaudojant trečiosios šalies programinės įrangos spraga, kuriai dar nebuvo išleistas saugumo pataisymas.
+
+2. Pažeidimo pobūdis ir apimtis
+Duomenų subjektų kategorijos: Duomenų valdytojo pacientai ir darbuotojai.
+
+Asmens duomenų rūšys: Tikėtina, kad buvo pasiekta informacija, apimanti vardus, pavardes, asmens kodus, gyvenamosios vietos adresus bei pacientų apsilankymų istoriją (diagnozės ir paskirti vaistai).
+
+Numatomas paveiktų asmenų skaičius: apie 1 200 unikalių įrašų.
+
+3. Tikėtinos pasekmės
+Neteisėtas asmens duomenų pasisavinimas kelia didelę riziką duomenų subjektų teisėms ir laisvėms, įskaitant tapatybės vagystės riziką, finansinį sukčiavimą bei neteisėtą jautrios medicininės informacijos paviešinimą.
+
+4. Priemonės, kurių imtasi ar siūloma imtis
+4.1. Pažeidimą patyręs serveris buvo nedelsiant izoliuotas nuo išorinio tinklo 22:40 val. (praėjus 25 min. po aptikimo).
+4.2. Pakeisti visi sistemų administratoriaus slaptažodžiai ir sustiprinti ugniasienės (firewall) nustatymai.
+4.3. Pradėtas išsamus skaitmeninės ekspertizės tyrimas tiksliai duomenų nutekėjimo apimčiai nustatyti.
+4.4. Informuota Lietuvos policijos Kriminalinės policijos biuro Nusikaltimų tyrimo valdyba.
+
+5. Duomenų apsaugos pareigūno kontaktai
+Dėl papildomos informacijos prašome kreiptis į UAB „Debesų Sistemos“ duomenų apsaugos pareigūną (DAP) Saulių Saugųjį, el. p. dap@debesusistemos.lt, tel. +370 600 00000.
+
+UAB „Debesų Sistemos“ direktorius
+
+Saulius Debesis

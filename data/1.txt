@@ -1,0 +1,43 @@
+PASLAUGŲ TEIKIMO SUTARTIS
+Ši Paslaugų teikimo sutartis (toliau – „Sutartis“) sudaryta 2025 m. spalio 14 d. (toliau – „Įsigaliojimo data“) tarp:
+
+UAB „Ateities Technologijos“, juridinio asmens kodas 123456789, buveinės adresas Gedimino pr. 1, Vilnius, Lietuva (toliau – „Paslaugų teikėjas“), ir
+
+MB „Sprendimų Grupė“, juridinio asmens kodas 987654321, buveinės adresas Konstitucijos pr. 20, Vilnius, Lietuva (toliau – „Klientas“).
+
+Paslaugų teikėjas ir Klientas toliau kartu vadinami „Šalimis“, o kiekvienas atskirai – „Šalimi“.
+
+1. Sutarties dalykas
+Paslaugų teikėjas įsipareigoja teikti Klientui programinės įrangos kūrimo ir konsultavimo paslaugas (toliau – „Paslaugos“), o Klientas įsipareigoja už jas atsiskaityti šioje Sutartyje nustatyta tvarka. Konkrečios paslaugos, jų apimtys ir terminai nurodomi atskiruose Darbo prieduose, kurie yra neatsiejama šios Sutarties dalis.
+
+2. Šalių įsipareigojimai
+Paslaugų teikėjas įsipareigoja: teikti Paslaugas kvalifikuotai, naudojant tinkamus įgūdžius ir priemones, laikantis sutartų terminų.
+
+Klientas įsipareigoja: laiku pateikti visą Paslaugoms teikti reikalingą informaciją bei prieigas ir sumokėti už suteiktas Paslaugas pagal pateiktas sąskaitas faktūras.
+
+3. Atsiskaitymo tvarka
+Už suteiktas Paslaugas Klientas moka Paslaugų teikėjui sutartą valandinį įkainį arba fiksuotą mokestį, nurodytą atitinkamame Darbo priede. Sąskaitos faktūros turi būti apmokėtos per 15 (penkiolika) kalendorinių dienų nuo jų išrašymo datos.
+
+4. Intelektinė nuosavybė
+Visos intelektinės nuosavybės teisės į rezultatus, sukurtus teikiant Paslaugas pagal šią Sutartį, pereina Klientui po to, kai jis visiškai atsiskaito su Paslaugų teikėju už konkretų darbą, nebent Darbo priede susitariama kitaip.
+
+5. Konfidencialumas
+Šalys įsipareigoja laikyti konfidencialia visą informaciją, gautą vykdant šią Sutartį, ir neatskleisti jos trečiosioms šalims be išankstinio rašytinio kitos Šalies sutikimo, išskyrus įstatymų nustatytus atvejus.
+
+6. Sutarties galiojimas ir nutraukimas
+Ši Sutartis įsigalioja nuo jos pasirašymo dienos ir galioja neterminuotai. Kiekviena Šalis turi teisę nutraukti šią Sutartį, apie tai raštu įspėjusi kitą Šalį prieš 30 (trisdešimt) dienų.
+
+7. Baigiamosios nuostatos
+Šiai Sutarčiai taikoma Lietuvos Respublikos teisė. Visi ginčai sprendžiami derybų keliu, o nepavykus susitarti – Lietuvos Respublikos teismuose.
+
+Šalių parašai:
+
+UAB „Ateities Technologijos“
+
+Vardas, Pavardė: Jonas Jonaitis
+Pareigos: Direktorius
+
+MB „Sprendimų Grupė“
+
+Vardas, Pavardė: Petras Petraitis
+Pareigos: Vadovas
