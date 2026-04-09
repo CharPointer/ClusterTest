@@ -2,7 +2,10 @@
 
 ```bash
 python -m venv venv
+# Linux/macOS
 source venv/bin/activate
+# Windows
+venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
