@@ -1,0 +1,101 @@
+**SUTARTIS DĖL INFORMACINIŲ TECHNOLOGIJŲ PASLAUGŲ TEIKIMO**
+
+**Nr. IT-2023-10-15**
+
+**Vilnius, 2023 m. spalio 15 d.**
+
+**Ši sutartis** (toliau – „Sutartis“) yra sudaryta tarp:
+
+1.  **UAB „Inovatyvios Sistemos“**, juridinio asmens kodas 123456789, buveinės adresas Gedimino pr. 5, Vilnius, atstovaujamos generalinio direktoriaus Jono Jonaičio, veikiančio pagal įmonės įstatus (toliau – „Paslaugų Teikėjas“),
+
+ir
+
+2.  **UAB „Verslo Dinamika“**, juridinio asmens kodas 987654321, buveinės adresas Konstitucijos pr. 10, Vilnius, atstovaujamos generalinio direktoriaus Petro Petrausko, veikiančio pagal įmonės įstatus (toliau – „Klientas“),
+
+toliau kartu vadinami „Šalimis“, o kiekviena atskirai – „Šalis“.
+
+**ATSIŽVELGDAMOS Į TAI, KAD:**
+
+A.  Klientas pageidauja gauti informacinių technologijų paslaugas, susijusias su jo verslo procesų optimizavimu ir IT infrastruktūros palaikymu.
+B.  Paslaugų Teikėjas turi reikiamą patirtį, žinias ir išteklius teikti tokias paslaugas.
+
+**ŠALYS SUSITARĖ IR SUSITARĖ SEKANČIAI:**
+
+**1. SUTARTIES OBJEKTAS**
+
+1.1. Paslaugų Teikėjas įsipareigoja teikti Klientui informacinių technologijų paslaugas (toliau – „Paslaugos“), nurodytas šios Sutarties 2 straipsnyje ir jos prieduose, o Klientas įsipareigoja priimti ir apmokėti už suteiktas Paslaugas šios Sutarties nustatyta tvarka.
+
+**2. PASLAUGŲ APIMTIS**
+
+2.1. Paslaugų Teikėjas teiks šias Paslaugas:
+    a)  IT infrastruktūros priežiūra ir administravimas (serveriai, tinklo įranga, darbo stotys).
+    b)  Programinės įrangos diegimas, konfigūravimas ir atnaujinimas.
+    c)  Vartotojų techninis palaikymas (pagalba sprendžiant IT problemas).
+    d)  Duomenų atsarginių kopijų darymas ir atkūrimas.
+    e)  Informacijos saugumo užtikrinimas ir stebėsena.
+    f)  Periodinės IT sistemos auditai ir rekomendacijos tobulinimui.
+2.2. Detali Paslaugų apimtis, jų teikimo laikas ir specifiniai reikalavimai yra nurodyti šios Sutarties Priede Nr. 1 „Paslaugų specifikacija“ (toliau – „Specifikacija“), kuris yra neatskiriama šios Sutarties dalis.
+
+**3. KAINOS IR ATSISKAITYMO TVARKA**
+
+3.1. Bendras Paslaugų kainos dydis bus nustatomas pagal Specifikacijoje nurodytus įkainius ir faktiškai suteiktų Paslaugų apimtį. Valandiniai įkainiai už teikiamas Paslaugas yra nurodyti Specifikacijoje.
+3.2. Už faktiškai suteiktas Paslaugas Klientas apmoka Paslaugų Teikėjui per 15 (penkiolika) kalendorinių dienų nuo sąskaitos faktūros gavimo datos.
+3.3. Sąskaitos faktūros bus išrašomos mėnesio eigoje arba pasibaigus mėnesiui, atsižvelgiant į suteiktų Paslaugų apimtį ir Specifikacijoje nurodytą tvarką.
+3.4. Visos kainos nurodomos eurais, neįskaitant pridėtinės vertės mokesčio (PVM), kuris bus priskaičiuojamas ir apmokamas pagal Lietuvos Respublikos įstatymus.
+
+**4. ŠALIŲ TEISĖS IR PAREIGOS**
+
+4.1. **Paslaugų Teikėjo teisės ir pareigos:**
+    a)  Teikti Paslaugas laikydamasis geriausios praktikos ir profesinių standartų.
+    b)  Užtikrinti konfidencialumą apie Klientui priklausančią informaciją.
+    c)  Informuoti Klientą apie bet kokius trikdžius ar problemas, galinčius paveikti Paslaugų teikimą.
+    d)  Saugoti ir tvarkyti Klientui priklausančią informaciją bei turtą atsakingai.
+4.2. **Kliento teisės ir pareigos:**
+    a)  Laiku apmokėti už suteiktas Paslaugas.
+    b)  Suteikti Paslaugų Teikėjui visą reikalingą informaciją ir prieigą prie savo IT sistemų Paslaugoms tinkamai atlikti.
+    c)  Bendradarbiauti su Paslaugų Teikėju, nustatant Paslaugų teikimo terminus ir prioritetus.
+    d)  Informuoti Paslaugų Teikėją apie būsimus pakeitimus savo IT sistemose ar verslo procesuose, kurie gali turėti įtakos Paslaugų teikimui.
+
+**5. KONFIDENCIALUMAS**
+
+5.1. Šalys įsipareigoja saugoti visą su kita Šalimi susijusią informaciją, kuri tampa žinoma vykdant šią Sutartį, ir neatskleisti jos tretiesiems asmenims be kitos Šalies raštiško sutikimo, išskyrus įstatymų nustatytus atvejus.
+
+**6. ATSAKOMYBĖ**
+
+6.1. Paslaugų Teikėjas neatsako už netiesioginius nuostolius, negautas pajamas ar verslo praradimą, atsiradusį dėl Kliento kaltės ar trečiųjų šalių veiksmų.
+6.2. Kiekviena Šalis atsako už savo įsipareigojimų nevykdymą ar netinkamą vykdymą pagal Lietuvos Respublikos įstatymus ir šią Sutartį.
+
+**7. FORCE MAJEURE**
+
+7.1. Šalys nebus laikomos atsakingomis už visiško ar dalinio įsipareigojimų pagal šią Sutartį nevykdymą, jeigu tai įvyko dėl nenugalimos jėgos (force majeure) aplinkybių, kurių Šalys negalėjo numatyti ir kontroliuoti.
+
+**8. SUTARTIES GALIOJIMAS IR NUTRAUKIMAS**
+
+8.1. Ši Sutartis įsigalioja nuo jos pasirašymo dienos ir galioja iki visiško Šalių įsipareigojimų įvykdymo arba iki jos nutraukimo šios Sutarties nustatyta tvarka.
+8.2. Kiekviena Šalis turi teisę nutraukti šią Sutartį, įspėjusi kitą Šalį raštu ne vėliau kaip prieš 30 (trisdešimt) kalendorinių dienų.
+8.3. Sutartis gali būti nutraukta šalių susitarimu.
+
+**9. GINČŲ SPRENDIMAS**
+
+9.1. Visi ginčai ir nesutarimai, kylantys iš šios Sutarties ar susiję su ja, sprendžiami derybomis.
+9.2. Jei derybomis susitarti nepavyksta, ginčai sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka Vilniaus miesto apylinkės teisme.
+
+**10. KITOS NUOSTATOS**
+
+10.1. Visi šios Sutarties pakeitimai ar papildymai galioja tik tada, kai jie yra padaryti raštu ir pasirašyti abiejų Šalių.
+10.2. Ši Sutartis sudaryta dviem egzemplioriais, po vieną kiekvienai Šaliai.
+10.3. Visi šios Sutarties priedai yra neatskiriama jos dalis.
+
+**ŠALIŲ PARAŠAI:**
+
+**UAB „Inovatyvios Sistemos“**
+_________________________
+(Generalinio direktoriaus vardas, pavardė)
+(Parašas)
+(Antspaudas)
+
+**UAB „Verslo Dinamika“**
+_________________________
+(Generalinio direktoriaus vardas, pavardė)
+(Parašas)
+(Antspaudas)

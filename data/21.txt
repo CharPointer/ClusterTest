@@ -1,0 +1,89 @@
+**SUTARTIS DĖL PASLAUGŲ TEIKIMO**
+
+**[Data]**
+
+Ši sutartis (toliau – Sutartis) sudaryta tarp:
+
+1.  **UŽSAKOVAS:**
+    [Užsakovo pavadinimas], juridinio asmens kodas [kodas], PVM mokėtojo kodas [kodas], registracijos adresas [adresas], atstovaujamas [atstovo pareigos ir vardas, pavardė], veikiančio pagal [įstatų/įgaliojimo pagrindą] (toliau – Užsakovas).
+
+2.  **PASLAUGŲ TEIKĖJAS:**
+    [Paslaugų teikėjo pavadinimas], juridinio asmens kodas [kodas], PVM mokėtojo kodas [kodas], registracijos adresas [adresas], atstovaujamas [atstovo pareigos ir vardas, pavardė], veikiančio pagal [įstatų/įgaliojimo pagrindą] (toliau – Paslaugų teikėjas).
+
+Užsakovas ir Paslaugų teikėjas toliau kartu vadinami Šalimis, o kiekviena atskirai – Šalimi.
+
+**1. SUTARTIES DALYKAS**
+
+1.1. Šia Sutartimi Paslaugų teikėjas įsipareigoja teikti Užsakovui [trumpas paslaugų aprašymas, pvz., konsultavimo, programinės įrangos kūrimo, IT paslaugų, marketingo paslaugų ir pan.] paslaugas (toliau – Paslaugos), o Užsakovas įsipareigoja priimti ir apmokėti už suteiktas Paslaugas pagal šios Sutarties sąlygas.
+
+1.2. Detalus Paslaugų aprašymas, jų apimtis, kokybės reikalavimai ir kitos svarbios sąlygos yra nurodytos šios Sutarties **1 priede**, kuris yra neatskiriama šios Sutarties dalis.
+
+**2. PASLAUGŲ TEIKIMO TERMINAI IR TVARKA**
+
+2.1. Paslaugų teikėjas įsipareigoja pradėti teikti Paslaugas ne vėliau kaip per [nurodyti terminą, pvz., 5 (penkias) darbo dienas] nuo šios Sutarties pasirašymo dienos.
+
+2.2. Paslaugų teikimas bus vykdomas pagal Užsakovo pateiktą ir Paslaugų teikėjo patvirtintą darbų grafiką, kuris gali būti koreguojamas šalių raštišku susitarimu.
+
+2.3. Paslaugų teikėjas įsipareigoja užtikrinti, kad Paslaugos būtų teikiamos laikantis visų galiojančių Lietuvos Respublikos įstatymų ir kitų teisės aktų reikalavimų.
+
+**3. ATLYGINIMAS IR ATSISKAITYMO TVARKA**
+
+3.1. Už tinkamai suteiktas Paslaugas Užsakovas įsipareigoja mokėti Paslaugų teikėjui atlyginimą, kurio dydis nustatomas pagal šios Sutarties **2 priedą**, kuris yra neatskiriama šios Sutarties dalis. Atlyginimas nurodomas be PVM (jei taikoma).
+
+3.2. Užsakovas apmoka Paslaugų teikėjo pateiktas sąskaitas per [nurodyti terminą, pvz., 15 (penkiolika) kalendorinių dienų] nuo sąskaitos gavimo dienos banko pavedimu į Paslaugų teikėjo nurodytą banko sąskaitą.
+
+3.3. Jei Užsakovas praleidžia atsiskaitymo terminą, Užsakovas moka Paslaugų teikėjui 0,02% (nulio komos dviejų procentų) dydžio delspinigius už kiekvieną uždelstą dieną nuo laiku nesumokėtos sumos. Delspinigių sumokėjimas neatleidžia Užsakovo nuo pagrindinio įsipareigojimo apmokėti sutartą atlyginimą.
+
+**4. ŠALIŲ TEISĖS IR PAREIGOS**
+
+4.1. **Užsakovas įsipareigoja:**
+    a) Bendradarbiauti su Paslaugų teikėju, teikti visą reikiamą informaciją ir dokumentus, reikalingus Paslaugoms teikti.
+    b) Užtikrinti Paslaugų teikėjo darbuotojų, atliekančių Paslaugas, saugias darbo sąlygas, jei tai yra būtina.
+    c) Laiku apmokėti už suteiktas Paslaugas.
+
+4.2. **Paslaugų teikėjas įsipareigoja:**
+    a) Teikti Paslaugas kokybiškai, sąžiningai ir laiku, vadovaudamasis šios Sutarties sąlygomis.
+    b) Užtikrinti Paslaugų teikimo konfidencialumą, neatskleisti tretiesiems asmenims Užsakovo pateiktos informacijos, išskyrus atvejus, numatytus įstatymuose.
+    c) Nedelsiant informuoti Užsakovą apie bet kokius Paslaugų teikimo eigą stabdančius ar kitaip svarbius aplinkybes.
+
+**5. ŠALIŲ ATSAKOMYBĖ**
+
+5.1. Šalys atsako už savo įsipareigojimų neįvykdymą ar netinkamą įvykdymą pagal Lietuvos Respublikos įstatymus ir šią Sutartį.
+
+5.2. Kilus ginčams dėl šios Sutarties vykdymo, Šalys įsipareigoja visus ginčus spręsti derybų būdu. Jei taikiu būdu susitarimo pasiekti nepavyksta, ginčai sprendžiami Lietuvos Respublikos įstatymų nustatyta tvarka teisme.
+
+**6. FORCE MAJEURE**
+
+6.1. Šalis neatleidiama nuo atsakomybės už savo įsipareigojimų neįvykdymą, jeigu tai įvyko dėl nenugalimos jėgos (force majeure) aplinkybių, kurios atsirado po šios Sutarties sudarymo ir kurių Šalis negalėjo numatyti ar išvengti.
+
+6.2. Apie nenugalimos jėgos aplinkybių atsiradimą ir jų pabaigą nukentėjusi Šalis privalo nedelsiant, bet ne vėliau kaip per 3 (tris) darbo dienas, informuoti kitą Šalį raštu.
+
+**7. SUTARTIES GALIOJIMAS IR PERŽIŪRĖJIMAS**
+
+7.1. Ši Sutartis įsigalioja nuo jos pasirašymo dienos ir galioja iki visiško Šalių sutartinių įsipareigojimų įvykdymo.
+
+7.2. Ši Sutartis gali būti keičiama ir papildoma tik raštišku Šalių susitarimu, kuris tampa neatskiriama šios Sutarties dalimi.
+
+7.3. Bet kuri Šalis gali vienašališkai nutraukti šią Sutartį, įspėjusi kitą Šalį raštu ne vėliau kaip prieš [nurodyti terminą, pvz., 30 (trisdešimt) kalendorinių dienų].
+
+**8. BAIGIAMOSIOS NUOSTATOS**
+
+8.1. Visi su šia Sutartimi susiję pranešimai, prašymai ar kitas susirašinėjimas siunčiami antrajai Šaliai registruotu paštu, faksu, elektroniniu paštu nurodytais adresais ar parengiami kaip Paslaugų teikėjo atliktų darbų perdavimo-priėmimo aktai.
+
+8.2. Ši Sutartis sudaryta dviem vienodai galiojančiais egzemplioriais, po vieną kiekvienai Šaliai.
+
+8.3. Priedai:
+    1. Paslaugų aprašymas.
+    2. Paslaugų kainoraštis.
+
+**ŠALIŲ PARAŠAI:**
+
+**UŽSAKOVAS:**
+
+_________________________
+[Vardas, pavardė, pareigos]
+
+**PASLAUGŲ TEIKĖJAS:**
+
+_________________________
+[Vardas, pavardė, pareigos]

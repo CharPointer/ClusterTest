@@ -1,0 +1,89 @@
+**SUTARTIS DĖL INFORMACINIŲ TECHNOLOGIJŲ PASLAUGŲ TEIKIMO**
+
+**1. ŠALIŲ TAIKYMAS**
+
+Ši sutartis (toliau – Sutartis) sudaryta tarp:
+
+*   **Užsakovas:** UAB „Technologijų Pasaulis“, juridinio asmens kodas 123456789, buveinės adresas: Saulės g. 10, Vilnius, Lietuva, atstovaujama generalinės direktorės Onos Jonaitienės, veikiančios pagal įstatus (toliau – Užsakovas);
+*   ir
+*   **Paslaugų teikėjas:** UAB „Skaitmeninis Spręstis“, juridinio asmens kodas 987654321, buveinės adresas: Gedimino pr. 5, Vilnius, Lietuva, atstovaujama direktoriaus Petro Petraičio, veikiančio pagal įstatus (toliau – Paslaugų teikėjas).
+
+Užsakovas ir Paslaugų teikėjas toliau kartu vadinami Šalimis, o kiekviena atskirai – Šale.
+
+**2. SUTARTIES OBJEKTAS**
+
+2.1. Šia Sutartimi Paslaugų teikėjas įsipareigoja teikti Užsakovui šias informacinių technologijų paslaugas (toliau – Paslaugos):
+    a) Vartotojų techninės pagalbos teikimas Užsakovo vidiniams vartotojams (helpdesk paslaugos).
+    b) Kompiuterinės įrangos priežiūra ir remontas.
+    c) Programinės įrangos diegimas ir konfigūravimas.
+    d) Tinklo infrastruktūros priežiūra.
+
+2.2. Detalus Paslaugų aprašymas ir jų teikimo apimtis nurodyti šios Sutarties priede Nr. 1 „Paslaugų specifikacija“, kuris yra neatskiriama šios Sutarties dalis.
+
+**3. PASLAUGŲ TEIKIMO TERMINAS IR TVARKA**
+
+3.1. Ši Sutartis įsigalioja nuo jos pasirašymo dienos ir galioja iki 2025 m. gruodžio 31 d.
+
+3.2. Paslaugos bus teikiamos pagal Užsakovo pateiktus prašymus ir nurodymus. Visi prašymai turi būti pateikiami elektroniniu paštu Paslaugų teikėjo nurodytu adresu.
+
+3.3. Paslaugų teikėjas įsipareigoja reaguoti į Užsakovo prašymus nedelsiant, o sudėtingesnius techninius sprendimus teikti ne vėliau kaip per 2 (dvi) darbo dienas nuo prašymo gavimo dienos, nebent kitaip nustatyta „Paslaugų specifikacijoje“.
+
+3.4. Esant ypatingai situacijai, kai būtinas greitas Paslaugų teikėjas reagavimas (pvz., visiškas sistemos sutrikimas), Paslaugų teikėjas įsipareigoja pradėti darbus nedelsiant, įskaitant savaitgaliais ir švenčių dienomis, apie tai iš anksto informavus Užsakovą.
+
+**4. KAINOS IR ATSISKAITYMAS**
+
+4.1. Už suteiktas Paslaugas Užsakovas moka Paslaugų teikėjui pagal šios Sutarties priede Nr. 2 „Paslaugų kainoraštis“ nustatytus tarifus.
+
+4.2. Paslaugų teikėjas teikia Užsakovui mėnesines sąskaitas faktūras už praėjusį mėnesį suteiktas Paslaugas. Sąskaitos faktūros išrašomos iki kito mėnesio 5 (penktos) dienos.
+
+4.3. Užsakovas įsipareigoja apmokėti pateiktas sąskaitas faktūras per 14 (keturiolika) kalendorinių dienų nuo sąskaitos gavimo dienos banko pavedimu į Paslaugų teikėjo nurodytą banko sąskaitą.
+
+**5. ŠALIŲ TEISĖS IR PAREIGOS**
+
+5.1. **Užsakovas privalo:**
+    a) Užtikrinti visą reikiamą informaciją ir prieigą prie Užsakovo informacinių sistemų, kad Paslaugų teikėjas galėtų kokybiškai atlikti savo darbus.
+    b) Laiku apmokėti už suteiktas Paslaugas.
+    c) Neteikti Paslaugų teikėjui nelegalių ar draudžiamų prašymų.
+
+5.2. **Paslaugų teikėjas privalo:**
+    a) Teikti Paslaugas kokybiškai, laikydamasis geriausių praktikų ir standartų.
+    b) Užtikrinti Užsakovo informacijos konfidencialumą.
+    c) Prisiimti atsakomybę už savo darbuotojų veiksmus ir kvalifikaciją.
+
+**6. ATSAKOMYBĖ**
+
+6.1. Už nekokybiškai suteiktas Paslaugas ar Sutarties sąlygų pažeidimą, Šalis atsako pagal Lietuvos Respublikos įstatymus.
+
+6.2. Jei Paslaugų teikėjas pažeidžia Paslaugų teikimo terminą, Užsakovas turi teisę reikalauti netesybų, kurios sudaro 0,1% (vieną dešimtąją procento) nuo nesuteiktos Paslaugos vertės už kiekvieną uždelstą dieną.
+
+**7. GINČŲ SPRENDIMAS**
+
+7.1. Visi ginčai ir nesutarimai, kylantys iš šios Sutarties ar susiję su ja, sprendžiami derybų būdu.
+
+7.2. Jei per 30 (trisdešimt) kalendorinių dienų nuo ginčo kilimo nepavyksta susitarti, ginčas perduodamas spręsti Lietuvos Respublikos kompetentingam teismui pagal Paslaugų teikėjo buveinės adresą.
+
+**8. KITOS SĄLYGOS**
+
+8.1. Ši Sutartis sudaryta dviem egzemplioriais, po vieną kiekvienai Šaliai.
+
+8.2. Visi su šia Sutartimi susiję pakeitimai ir papildymai galioja tik tuo atveju, jei jie pateikiami raštu ir yra pasirašyti abiejų Šalių įgaliotų atstovų.
+
+8.3. Sutartis ir jos priedai yra neatskiriama Sutarties dalis.
+
+**ŠALIŲ PARAŠAI:**
+
+**Užsakovas:**
+UAB „Technologijų Pasaulis“
+
+_________________________
+(Parašas)
+Onos Jonaitienės
+Generalinė direktorė
+
+**Paslaugų teikėjas:**
+UAB „Skaitmeninis Spręstis“
+
+_________________________
+(Parašas)
+Petro Petraičio
+Direktorius

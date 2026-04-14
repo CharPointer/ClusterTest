@@ -3,9 +3,9 @@ from sklearn.cluster import HDBSCAN
 from sklearn.preprocessing import normalize
 import numpy as np
 from pathlib import Path
+import umap
 
-def embed_documents(filepaths, model, max_chars=512):
-    tokenizer = model.tokenizer
+def embed_documents(filepaths, model):
     all_doc_embeddings = []
 
     for path in filepaths:
@@ -14,27 +14,22 @@ def embed_documents(filepaths, model, max_chars=512):
         if not text:
             continue 
 
-        chunks = [text[i:i + max_chars] for i in range(0, len(text), max_chars)]
-        chunks = [c for c in chunks if c.strip()]
-
-        if not chunks:
-            continue
-
-        chunk_embeddings = model.encode(chunks)
-        doc_embedding = np.mean(chunk_embeddings, axis=0)
-
-        all_doc_embeddings.append(doc_embedding)
+        all_doc_embedding = model.encode(f"passage: {text}")
+        all_doc_embeddings.append(all_doc_embedding)
 
     return np.vstack(all_doc_embeddings)
 
 # LOADING MODEL
-model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
+# model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
+model = SentenceTransformer('intfloat/multilingual-e5-large')
 
 # EMBEDDING
 filepaths = [str(p) for p in Path("data").glob("*") if p.is_file()]
 
 embeddings = embed_documents(filepaths, model)
 normalized_embeddings = normalize(embeddings)
+reducer = umap.UMAP(n_components=15, metric="cosine")
+reduced = reducer.fit_transform(normalized_embeddings)
 
 # CLUSTERING
 hdb = HDBSCAN(copy=True, min_cluster_size=2)

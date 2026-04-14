@@ -1,0 +1,92 @@
+**SUTARTIS DĖL VIRTUALIOS KOMPIUTERINĖS SISTEMOS NAUDOJIMO**
+
+Ši sutartis (toliau – „Sutartis“) sudaryta 2023 m. spalio 26 d. tarp:
+
+1.  **UAB „TeknoStartas“**, juridinio asmens kodas 305789123, buveinės adresas Vilniuje, Gedimino prospektas 10-5, atstovaujama generalinio direktoriaus Jono Jonaitis, veikiančio pagal įmonės įstatus (toliau – „Paslaugų Teikėjas“),
+
+ir
+
+2.  **Individialis įmonė „Kūrybinė Vizija“**, individualios įmonės kodas 123456789, buveinės adresas Kaune, Laisvės alėja 25, atstovaujama savininko Petro Petrovičiaus, veikiančio pagal individualios įmonės nuostatus (toliau – „Klientas“).
+
+Toliau kartu vadinami „Šalimis“, o kiekviena atskirai – „Šalimi“.
+
+**1. SUTARTIES DALYKAS**
+
+1.1. Paslaugų Teikėjas įsipareigoja suteikti Klientui prieigą ir teisę naudotis virtualia kompiuterine sistema (toliau – „Sistemą“), apibrėžta šioje Sutartyje ir jos prieduose, o Klientas įsipareigoja priimti ir naudoti Sistemą pagal šios Sutarties sąlygas ir mokėti už jos naudojimą.
+
+1.2. Sistemos funkcijos ir apimtis yra detaliau aprašytos šios Sutarties 1 priede „Sistemos Funkcionalumo Aprašymas“, kuris yra neatskiriama šios Sutarties dalis.
+
+**2. SUTARTIES TRUKMĖ IR NUTRAUKIMAS**
+
+2.1. Ši Sutartis įsigalioja nuo jos pasirašymo dienos ir galioja iki visiško Šalių įsipareigojimų įvykdymo, nebent ji būtų nutraukta anksčiau, kaip numatyta šioje Sutartyje.
+
+2.2. Ši Sutartis gali būti nutraukta:
+    a) Vienašališkai, raštu įspėjus kitą Šalį prieš 30 (trisdešimt) kalendorinių dienų.
+    b) Vienašališkai, nedelsiant, jeigu kita Šalis nevykdo esminių savo įsipareigojimų pagal šią Sutartį ir per 15 (penkiolika) kalendorinių dienų nuo raštiško pranešimo apie pažeidimą nepašalina nurodytų trūkumų.
+    c) Šalių susitarimu, raštu.
+
+**3. APMOKĖJIMAS**
+
+3.1. Klientas įsipareigoja už Sistemos naudojimą mokėti Paslaugų Teikėjui nustatytą mokestį pagal šios Sutarties 2 priede „Mokesčių Lentelė“ nurodytą tarifą.
+
+3.2. Paslaugų Teikėjas teiks Klientui sąskaitas faktūras už praėjusį naudojimo laikotarpį per 5 (penkias) darbo dienas nuo laikotarpio pabaigos.
+
+3.3. Klientas įsipareigoja apmokėti gautas sąskaitas faktūras per 10 (dešimt) kalendorinių dienų nuo jų gavimo dienos.
+
+**4. ŠALIŲ TEISĖS IR PAREIGOS**
+
+4.1. **Paslaugų Teikėjo teisės ir pareigos:**
+    a) Užtikrinti Sistemos veikimą ir prieinamumą, išskyrus planinius techninės priežiūros darbus.
+    b) Nustatyti Sistemos naudojimo taisykles ir procedūras, kurias Klientas privalo laikytis.
+    c) Teikti Klientui techninę pagalbą ir konsultacijas Sistemos naudojimo klausimais.
+    d) Neatskleisti tretiesiems asmenims Kliento konfidencialios informacijos, sužinotos naudojantis Sistemos teikimo paslaugomis, išskyrus atvejus, numatytus įstatymuose.
+
+4.2. **Kliento teisės ir pareigos:**
+    a) Naudotis Sistema pagal šios Sutarties sąlygas ir paskirtį.
+    b) Laikytis Sistemos naudojimo taisyklių.
+    c) Mokėti už Sistemos naudojimą nustatytais terminais ir tvarka.
+    d) Atsakyti už visus veiksmus, atliktus naudojantis jo prisijungimo duomenimis.
+    e) Nenaudoti Sistemos neteisėtai veiklai, neplatinti virusų ar kitos kenksmingos programinės įrangos.
+
+**5. ATSAKOMYBĖ**
+
+5.1. Šalys atsako už savo įsipareigojimų pagal šią Sutartį nevykdymą ar netinkamą vykdymą Lietuvos Respublikos įstatymų ir šios Sutarties nustatyta tvarka.
+
+5.2. Paslaugų Teikėjas neatsako už žalą, kuri Klientui ar tretiesiems asmenims atsirado dėl:
+    a) Sistemos naudojimo netinkama paskirtimi ar pažeidžiant šios Sutarties sąlygas.
+    b) Kliento atsakomybės srityje esančių priežasčių (pvz., netinkamas prisijungimo duomenų saugojimas).
+    c) Force majeure aplinkybių.
+
+5.3. Jei Klientas vėluoja apmokėti sąskaitas faktūras, jis moka 5.4. Paslaugų Teikėjui delspinigius 0,02% (dviejų šimtųjų procento) nuo neapmokėtos sumos už kiekvieną uždelstą dieną.
+
+**6. FORCE MAJEURE**
+
+6.1. Šalys atleidžiamos nuo atsakomybės už visišką ar dalinį įsipareigojimų neįvykdymą, jeigu tai įvyko dėl nenugalimos jėgos (force majeure) aplinkybių, kurių nebuvo galima numatyti ir išvengti. Apie tokias aplinkybes nukentėjusi Šalis privalo pranešti kitai Šaliai raštu nedelsiant, bet ne vėliau kaip per 3 (tris) darbo dienas nuo tokių aplinkybių atsiradimo.
+
+**7. KONFIDENCIALUMAS**
+
+7.1. Visą informaciją, gautą vykdant šią Sutartį, Šalys įsipareigoja laikyti konfidencialia ir neatskleisti jos tretiesiems asmenims be kitos Šalies raštiško sutikimo, išskyrus atvejus, numatytus Lietuvos Respublikos įstatymuose.
+
+**8. BAIGIAMOSIOS NUOSTATOS**
+
+8.1. Visi su šia Sutartimi susiję pranešimai ir dokumentai turi būti teikiami raštu, registruotu paštu arba per kurjerį, nurodytais adresais.
+
+8.2. Ši Sutartis sudaryta dviem vienodai galiojančiais egzemplioriais – po vieną kiekvienai Šaliai.
+
+8.3. Visi klausimai, neišspręsti šioje Sutartyje, sprendžiami vadovaujantis Lietuvos Respublikos įstatymais. Ginčai, kylantys iš šios Sutarties, sprendžiami derybomis, o nepavykus susitarti – Lietuvos Respublikos įstatymų nustatyta tvarka teisme.
+
+**ŠALIŲ PARAŠAI**
+
+**UAB „TeknoStartas“**
+_________________________
+(Generalinio direktoriaus pareigos)
+
+_________________________
+(Vardas, pavardė)
+
+**Individuali įmonė „Kūrybinė Vizija“**
+_________________________
+(Savininko pareigos)
+
+_________________________
+(Vardas, pavardė)
